@@ -1,7 +1,7 @@
 {
     "name": "phpmonad/phpmonad",
     "description": "A set of design patterns created with the aim of enriching the Php vocabulary with Literature derived from the functional programming world",
-    "version": "0.1",
+    "version": "1.0",
     "type": "library",
     "keywords": ["functional", "either", "exception", "monad", "phpmonad"],
     "homepage": "https://github.com/phpmonad/phpmonad",
